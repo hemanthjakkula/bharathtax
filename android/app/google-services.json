@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124880186686",
+    "project_id": "bharathtax",
+    "storage_bucket": "bharathtax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124880186686:android:db8f2b6343ba330d0a506f",
+        "android_client_info": {
+          "package_name": "com.bharathtax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124880186686-92cfhudcgl2l0i6is3nn8ihhd6a8qmti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bharathtax",
+            "certificate_hash": "aa7efbb2c55453f9c63ff67f333edd69dbed7ec7"
+          }
+        },
+        {
+          "client_id": "124880186686-v05es4d58hal2lsahonuk0452hasvla3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMrjT5l8qB9cXCuqHimc65N4EUogCelZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124880186686-rtj96h0ccdvquiuadk736aefhrufnhf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
